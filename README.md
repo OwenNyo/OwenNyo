@@ -4,7 +4,7 @@
 
 <h1 align="center">Let's Connect and Have a Chat!💬</h1>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">Learn More About Me</h2>
 <p align="center">
   I am currently an undergraduate pursuing a Software Engineering Degree at Singapore Institute of Technology. <br>
   I am passionate about front-end development and currently learning full-stack web development.

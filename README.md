@@ -2,23 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
 
-<h1 align="center">Let's Connect and Have a Chat!💬</h1>
-
-<h2 align="center">Learn More About Me</h2>
+<h2 align="center">👉 Learn More About Me 👈</h2>
 <p align="center">
   I am currently an undergraduate pursuing a Software Engineering Degree at Singapore Institute of Technology. <br>
   I am passionate about front-end development and currently learning full-stack web development.
 </p>
 
 <h2 align="center">🤝 Connect with Me 🤝</h2>
-<p align="center">Interested in chatting about tech or exploring new ideas? Let's connect!</p>
+<p align="center">Interested in chatting about tech or exploring new ideas?💬</p>
 <p align="center">
   <a href="https://linkedin.com/in/owen-nyo/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
   </a>
 </p>
 
-<h2 align="center">My Github History</h2>
+<h2 align="center">🚀 My Github History 🚀</h2>
 <div align="center">
   <a href="https://github.com/OwenNyo/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=OwenNyo&show_icons=true&theme=tokyonight&count_private=true" alt="Owen's GitHub stats" width="400" height="200"/>

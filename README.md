@@ -19,9 +19,6 @@
 <h2 align="center">🚀 My Github History 🚀</h2>
 <div align="center">
   <a href="https://github.com/OwenNyo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=OwenNyo&show_icons=true&theme=tokyonight&count_private=true" alt="Owen's GitHub stats" width="400" height="200"/>
-  </a>
-  <a href="https://github.com/OwenNyo/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenNyo&theme=tokyonight&layout=compact" alt="Top Languages" width="400" height="200"/>
   </a>
 </div>

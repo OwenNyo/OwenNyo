@@ -12,7 +12,9 @@ I am passionate in front end development and currently learning full stack web d
   </a>
 </p>
 
+### My Github History
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OwenNyo&theme=tokyonight&layout=compact)](https://github.com/OwenNyo/github-readme-stats)
+[![Owen's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwenNyo)](https://github.com/OwenNyo/github-readme-stats)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">

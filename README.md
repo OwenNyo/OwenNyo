@@ -18,7 +18,7 @@ I am passionate in front end development and currently learning full stack web d
     <img src="https://github-readme-stats.vercel.app/api?username=OwenNyo&show_icons=true&theme=tokyonight&count_private=true" alt="Owen's GitHub stats" width="400" height="200"/>
   </a>
   <a href="https://github.com/OwenNyo/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenNyo&theme=tokyonight&layout=compact" alt="Top Langs" width="400" height="250"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwenNyo&theme=tokyonight&layout=compact" alt="Top Langs" width="400" height="200"/>
   </a>
 </div>
 
